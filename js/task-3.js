@@ -1,4 +1,4 @@
-class StringeBuilder {
+class StringBuilder {
   #value;
   constructor(initialValue) {
     this.#value = initialValue;
